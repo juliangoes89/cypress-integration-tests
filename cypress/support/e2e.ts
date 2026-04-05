@@ -1,0 +1,1 @@
+// This file is used for global configurations and behaviors that modify Cypress's default behavior for end-to-end tests.

@@ -1,0 +1,1 @@
+// This file is used to define custom commands for Cypress tests. It can include reusable functions that simplify test code.
